@@ -1,2 +1,2 @@
 # JS Object Oriented Programming
-> OOP Tutorial in JS
+> OOP Concepts, Tutorial in JS
